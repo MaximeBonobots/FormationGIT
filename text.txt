@@ -1,3 +1,4 @@
 Création du fichier text.txt
 Lorem ipsum dolor
 sit amet consectetur
+Lorem ipsum dolor
