@@ -1,5 +1,6 @@
-Création du fichier text.txt
+CrÃ©ation du fichier text.txt
 Lorem ipsum dolor
 sit amet consectetur
 Lorem ipsum dolor
 sit amet consectetur
+Lorem ipsum dolor
